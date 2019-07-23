@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NYU, Courant"
 date: 2018-09-01
-location: "City, Country"
+location: "New York, USA"
 ---
 
 ---
@@ -15,7 +15,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NYU, Courant"
 date: 2019-02-01
-location: "City, Country"
+location: "New York, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
