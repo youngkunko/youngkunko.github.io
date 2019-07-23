@@ -17,7 +17,6 @@ Education
   
 Trivia
 ======
-* South Korean national with U.S. Green Card
 * Native in Korean, Fluent in English
 * Can code Java, Python, JavaScript
 
