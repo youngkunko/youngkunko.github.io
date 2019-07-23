@@ -7,6 +7,8 @@ venue: "NYU, Courant"
 date: 2018-09-01
 location: "City, Country"
 ---
+
+---
 title: "Data Structure 2019 Spring"
 collection: teaching
 type: "Undergraduate course"
