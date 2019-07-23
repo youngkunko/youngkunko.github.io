@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Data Structure"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "NYU, Courant"
+date: 2018-09-01
+location: "New York University"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+NYU Fall Course in Data Structure
 
 Heading 1
 ======
