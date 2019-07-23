@@ -10,7 +10,7 @@ redirect_from:
 
 I am Assistant Professor / Faculty Fellow at New York University, hosted by Professor [Oded Regev](https://cims.nyu.edu/~regev/) and Professor [Subhash Khot](https://cs.nyu.edu/~khot/).
 
-Before this, I was a PhD student at Princeton University advised by Professor [Mark Braverman](http://www.cs.princeton.edu/~mbraverm).
+Before this, I spent five years as a PhD student at Princeton University advised by Professor [Mark Braverman](http://www.cs.princeton.edu/~mbraverm).
 
 
 Research Interest
