@@ -12,16 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics with Honors, University of Chicago, 2013
-* Ph.D in Computer Science, Princeton University, 2018 
+* Ph.D in Computer Science, Princeton University, 2018
+    * Advisor : Mark Braverman
   
-Skills
+Trivia
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* South Korean national with U.S. Green Card
+* Native in Korean, Fluent in English
+* Can code Java, Python, JavaScript
 
 Publications
 ======
