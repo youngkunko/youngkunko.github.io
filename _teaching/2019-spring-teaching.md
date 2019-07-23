@@ -1,4 +1,3 @@
-
 ---
 title: "Data Structure 2019 Spring"
 collection: teaching
