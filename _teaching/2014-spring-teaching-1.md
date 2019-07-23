@@ -1,10 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Data Structure 2018 Fall"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "NYU, Courant"
+date: 2018-09-01
+location: "City, Country"
+---
+title: "Data Structure 2019 Spring"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "NYU, Courant"
+date: 2019-02-01
 location: "City, Country"
 ---
 
