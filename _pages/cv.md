@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics with Honors, University of Chicago, 2013
 * Ph.D in Computer Science, Princeton University, 2018
     * Advisor : Mark Braverman
+    * Thesis : Hardness amplification for two prover game and communication complexity
+* B.S. in Mathematics with Honors, University of Chicago, 2013
   
 Trivia
 ======
