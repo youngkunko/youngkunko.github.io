@@ -2,9 +2,9 @@
 title: "Information Value of the Game"
 collection: publications
 permalink: /publication/2018-01-11
-excerpt: 'with [Mark Braverman](cs.princeton.edu/~mbraverman)'
+excerpt: 'with [Mark Braverman](http://www.cs.princeton.edu/~mbraverm/pmwiki/index.php?n=Site.Main?setview=display)'
 date: 2018-01-11
-venue: 'ITCS 2018'
+venue: '9th Innovations in Theoretical Computer Science Conference'
 paperurl: 'https://doi.org/10.4230/LIPIcs.ITCS.2018.12'
 ---
 
