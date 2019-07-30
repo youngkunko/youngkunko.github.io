@@ -2,8 +2,7 @@
 title: "Information Value of the Game"
 collection: publications
 permalink: /publication/2018-01-11
-authors: 'with Mark Braverman'
-excerpt: 'This paper defines Information Value of Two Prover Game and relates it to amortized value of the game'
+excerpt: 'with [Mark Braverman](cs.princeton.edu/~mbraverman)'
 date: 2018-01-11
 venue: 'ITCS 2018'
 paperurl: 'https://doi.org/10.4230/LIPIcs.ITCS.2018.12'
