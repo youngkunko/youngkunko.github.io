@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 2"
+title: "Information Value of the Game"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-01-11
+authors: 'with Mark Braverman'
+excerpt: 'This paper defines Information Value of Two Prover Game and relates it to amortized value of the game'
+date: 2018-01-11
+venue: 'ITCS 2018'
+paperurl: 'https://doi.org/10.4230/LIPIcs.ITCS.2018.12'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.4230/LIPIcs.ITCS.2018.12)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+We introduce a generalization of the standard framework for studying the difficulty of two-prover games.
+Specifically, we study the model where Alice and Bob are allowed to communicate (with information constraints) --- in contrast to the usual two-prover game
+where they are not allowed to communicate after receiving their respective input.
+We study the trade-off between the information cost of the protocol and the achieved value of the game after the protocol.
+In particular, we show the connection of this trade-off and the amortized behavior of the game (i.e. repeated value of the game).
+We show that if one can win the game with at least $(1 - \epsilon)$-probability by communicating at most $\epsilon$ bits of information,
+then one can win $n$ copies with probability at least  $2^{-O(\epsilon n)}$. This gives an intuitive explanation
+why Raz's counter-example to strong parallel repetition \cite{Raz08} (the odd cycle game) is a counter-example to strong parallel repetition
+--- one can win the odd-cycle game on a cycle of length $m$ by communicating $O(m^{-2})$-bits where $m$ is the number of vertices.
+
+Conversely, for projection games, we show that if one can win $n$ copies with probability larger than $(1-\epsilon)^n$,
+then one can win one copy with at least $(1 - O(\epsilon))$-probability by communicating $O(\epsilon)$ bits of information.
+By showing the equivalence between information value and amortized value, we give an alternative direction for further works in studying amortized behavior of the two-prover games.
+
+The main technical tool is the ``Chi-Squared Lemma'' which bounds the information cost of the protocol in terms of Chi-Squared distance, instead of usual divergence. This avoids the square loss from using Pinsker's Inequality.
