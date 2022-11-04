@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor (tenure-track) at Penn State University. [Currently I am accepting students]
+I am an Assistant Professor (tenure-track) at Penn State University. Currently I am accepting students!
 
 Before this, I was a Faculty Fellow (post-doc) at New York University hosted by Professor [Oded Regev](https://cims.nyu.edu/~regev/) and Professor [Subhash Khot](https://cs.nyu.edu/~khot/).
 I received my PhD at Princeton University advised by Professor [Mark Braverman](http://www.cs.princeton.edu/~mbraverm).
@@ -24,4 +24,4 @@ Contact
 ------
 My Last Name is "Ko." My First Name is "Young Kun."
 
-Email: (first letter of my First Name)(My Last Name) (at) cs (dot) nyu (dot) edu
+Email: yk(My Last Name) (at) psu (dot) edu
