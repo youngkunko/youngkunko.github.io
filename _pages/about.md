@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (tenure-track) at Penn State University. Currently I am accepting students!
+I am an Assistant Professor (tenure-track) at Penn State University.
 
 Before this, I was a Faculty Fellow (post-doc) at New York University hosted by Professor [Oded Regev](https://cims.nyu.edu/~regev/) and Professor [Subhash Khot](https://cs.nyu.edu/~khot/).
 I received my PhD at Princeton University advised by Professor [Mark Braverman](http://www.cs.princeton.edu/~mbraverm).
@@ -17,8 +17,7 @@ I received my PhD at Princeton University advised by Professor [Mark Braverman](
 Research Interest
 ------
 
-I am interested in applications of information theoretic techniques in complexity theory.
-Currently I am interested in giving data structure lower bounds using techniques from communication complexity.
+I am interested in theoretical computer science, especially computational complexity and the mathematical foundations of computation. Much of my work uses tools from information theory and communication complexity to understand the inherent limits of efficient computation.
 
 Contact
 ------
