@@ -8,3 +8,4 @@ location: "University Park, PA"
 ---
 
 Regular offering of CMPSC 464: Introduction to Theory of Computation.
+Offered Fall 2021, Fall 2022, Fall 2024, Spring 2027 (tentative).
