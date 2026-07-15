@@ -17,7 +17,7 @@ I received my PhD at Princeton University advised by Professor [Mark Braverman](
 Research Interest
 ------
 
-I am interested in theoretical computer science, especially computational complexity and the mathematical foundations of computation. Much of my work uses tools from information theory and communication complexity to understand the inherent limits of efficient computation.
+I am interested in computational complexity theory, particularly data structure lower bounds via information-theoretic and communication-complexity techniques. More recently, I have also become interested in bioinformatics.
 
 Contact
 ------
