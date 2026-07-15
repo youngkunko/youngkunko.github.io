@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+## Selected Publications
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% unless post.venue contains "RECOMB" or post.venue contains "Bio" or post.venue contains "bio" %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+
+## BioInformatics
+
+{% for post in site.publications reversed %}
+  {% if post.venue contains "RECOMB" or post.venue contains "Bio" or post.venue contains "bio" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
