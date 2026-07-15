@@ -13,10 +13,11 @@ author_profile: true
 
 ## Selected Publications
 
+{% assign selected_permalinks = "/publication/2026-03-01|/publication/2019-11-14|/publication/2018-08-20|/publication/2015-10-17" %}
 {% for post in site.publications reversed %}
-  {% unless post.venue contains "RECOMB" or post.venue contains "Bio" or post.venue contains "bio" %}
+  {% if selected_permalinks contains post.permalink %}
     {% include archive-single.html %}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
 
 ## BioInformatics
