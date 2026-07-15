@@ -1,0 +1,10 @@
+---
+title: "CMPSC 464: Introduction to Theory of Computation"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/cmpsc-464
+venue: "Penn State, CMPSC 464"
+location: "University Park, PA"
+---
+
+Regular offering of CMPSC 464: Introduction to Theory of Computation.
