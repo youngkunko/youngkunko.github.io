@@ -22,8 +22,17 @@ author_profile: true
 
 ## BioInformatics
 
+{% assign bio_permalink = "/publication/2025-12-11" %}
 {% for post in site.publications reversed %}
-  {% if post.venue contains "RECOMB" or post.venue contains "Bio" or post.venue contains "bio" %}
+  {% if post.permalink == bio_permalink %}
     {% include archive-single.html %}
   {% endif %}
+{% endfor %}
+
+## Full Publications
+
+{% for post in site.publications reversed %}
+  {% unless selected_permalinks contains post.permalink or post.permalink == bio_permalink %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
