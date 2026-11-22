@@ -13,7 +13,7 @@ author_profile: true
 
 ## Selected Publications
 
-{% assign selected_permalinks = "/publication/2026-11-01|/publication/2026-10-01|/publication/2026-03-01|/publication/2019-11-14|/publication/2018-08-20|/publication/2015-10-17" %}
+{% assign selected_permalinks = "/publication/2026-10-01|/publication/2026-03-01|/publication/2019-11-14|/publication/2018-08-20|/publication/2015-10-17" %}
 {% for post in site.publications reversed %}
   {% if selected_permalinks contains post.permalink %}
     {% include archive-single.html %}
